@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+.background{
+  background-image: url(../images/dog-1868871.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+.align{
+  display: flex;
+  align-items: flex-end;
+}
